@@ -11,7 +11,8 @@ This project aimed to streamline the process of creating effective prompts for L
 - Vector Database: ChromaDB
 - Prompt Engineering: Langchain Library
 - Large Language Model: OpenAI GPT-3
-Evaluation: Ragas
+- Evaluation: Ragas
+  
 **Key Accomplishments:**
 - **Data Preprocessing:** Built a function to organize and clean text data from the Fabric repository.
 - **Scalable Chunking:** Chunked prompts into manageable sizes for efficient LLM processing.
